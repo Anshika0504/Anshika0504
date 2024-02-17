@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshika0504
+- 👋 Hi, I’m Anshika Agarwal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 📫 How to reach me anshikaagarwal0405@gmail.com
